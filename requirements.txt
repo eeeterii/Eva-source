@@ -1,0 +1,17 @@
+telethon
+pySmartDL
+user_agent
+telegram
+python-telegram-bot --upgrade
+deep_translator
+langdetect
+sqlalchemy
+gpytranslate
+python-dateutil
+emoji
+pytz
+events
+ping3
+mention
+pybase64
+aiohttp
